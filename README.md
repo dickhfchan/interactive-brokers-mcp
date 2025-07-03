@@ -34,7 +34,7 @@ both flask app and fastapi app can run together for testing and checking.
 
 
 ## Setup 
-Need to update the ID
+Need to update the ID in docker yaml file
 IBKR_ACCOUNT_ID: "U1234567"
 
 
