@@ -33,4 +33,8 @@ added port 3100 in docker-compose.yml for the mcp server.
 both flask app and fastapi app can run together for testing and checking. 
 
 
+## Setup 
+Need to update the ID
+IBKR_ACCOUNT_ID: "U1234567"
+
 
